@@ -1,4 +1,4 @@
-## Xbox Gamertag Checker
+# <p align="center">Xbox Gamertag Checker</p>
 
 <p align="center">
   <img src="docs/img.png" alt="Banner Xbox Gamertag" width="800"/>

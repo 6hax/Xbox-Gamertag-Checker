@@ -79,6 +79,6 @@ The program runs continuously until interrupted (Ctrl+C). Every 40 checks, it pa
 - Style: keep descriptive names and avoid catching broad exceptions where better handling is possible.
 
 ### Authors
-- dan — https://github.com/danslvck
+- dan — https://github.com/Dansvn
 - hax — https://github.com/6hax
 

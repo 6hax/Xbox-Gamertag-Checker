@@ -74,7 +74,7 @@ def create_file_with_ascii():
   ██║   ██║██╔══██║██║╚██╔╝██║██╔══╝     ██║   ██╔══██║██║   ██║
   ╚██████╔╝██║  ██║██║ ╚═╝ ██║███████╗   ██║   ██║  ██║╚██████╔╝
    ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝
-           https://github.com/6hax | https://github.com/danslvck
+           https://github.com/6hax | https://github.com/Dansvn
 """
     with open("Gamertags_Available.txt", "w", encoding="utf-8") as file:
         file.write(ascii_art + "\n")

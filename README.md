@@ -1,5 +1,9 @@
 ## Xbox Gamertag Checker
 
+<p align="center">
+  <img src="docs/img.png" alt="Banner Xbox Gamertag" width="800"/>
+</p>
+
 Python utility that generates and checks random Xbox gamertags against `xboxgamertag.com`. When an available gamertag is found, it is printed to the console, appended to `Gamertags_Available.txt`, and optionally sent to a Discord webhook.
 
 ### Features
